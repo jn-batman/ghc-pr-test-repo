@@ -17,20 +17,27 @@ Feature4.prototype = {
 	newMethod2: function() {
 		// Adding new method for PR #4
 	}, 
+	
+	feature5: function() {
+		// Adding new method for Feature 5 / PR #5. 
+		// This was added on the feature-5 branch. 
+	}, 
 
     type: 'Feature4'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>josh.nerius</sys_created_by>
         <sys_created_on>2017-10-16 04:29:07</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>4464689e13714b409718b9b76144b0ac</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Feature4</sys_name>
         <sys_package display_value="GHC PR Tester" source="x_48785_ghc_prtest">a1fc6a01db71030005b1dec0cf96198c</sys_package>
         <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GHC PR Tester">a1fc6a01db71030005b1dec0cf96198c</sys_scope>
         <sys_update_name>sys_script_include_4464689e13714b409718b9b76144b0ac</sys_update_name>
         <sys_updated_by>josh.nerius</sys_updated_by>
-        <sys_updated_on>2017-10-18 00:06:52</sys_updated_on>
+        <sys_updated_on>2017-10-18 00:48:37</sys_updated_on>
     </sys_script_include>
 </record_update>
