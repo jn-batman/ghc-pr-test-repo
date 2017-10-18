@@ -4,11 +4,13 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>josh.nerius</sys_created_by>
         <sys_created_on>2017-10-18 02:06:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e4f69aba13f58b409718b9b76144b01d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_48785_ghc_prtest_test_table.x_48785_ghc_prtest.test_table_user</sys_name>
         <sys_package display_value="GHC PR Tester" source="x_48785_ghc_prtest">a1fc6a01db71030005b1dec0cf96198c</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GHC PR Tester">a1fc6a01db71030005b1dec0cf96198c</sys_scope>
         <sys_security_acl display_value="x_48785_ghc_prtest_test_table">2cf69aba13f58b409718b9b76144b00c</sys_security_acl>
         <sys_update_name>sys_security_acl_role_e4f69aba13f58b409718b9b76144b01d</sys_update_name>

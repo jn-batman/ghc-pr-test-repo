@@ -13,13 +13,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>jnerius</sys_created_by>
         <sys_created_on>2017-10-18 02:12:30</sys_created_on>
-        <sys_id>d858d2badbf5030005b1dec0cf961978</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>833a6a7613398b409718b9b76144b0fc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_48785_ghc_prtest_test_table</sys_name>
         <sys_package display_value="GHC PR Tester" source="x_48785_ghc_prtest">a1fc6a01db71030005b1dec0cf96198c</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="GHC PR Tester">a1fc6a01db71030005b1dec0cf96198c</sys_scope>
-        <sys_update_name>ua_table_licensing_config_d858d2badbf5030005b1dec0cf961978</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_833a6a7613398b409718b9b76144b0fc</sys_update_name>
         <sys_updated_by>jnerius</sys_updated_by>
         <sys_updated_on>2017-10-18 02:12:30</sys_updated_on>
     </ua_table_licensing_config>
