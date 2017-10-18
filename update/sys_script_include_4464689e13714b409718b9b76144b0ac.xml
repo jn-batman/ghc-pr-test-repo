@@ -3,32 +3,30 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_48785_ghc_prtest.Feature2</api_name>
+        <api_name>x_48785_ghc_prtest.Feature4</api_name>
         <client_callable>false</client_callable>
         <description/>
-        <name>Feature2</name>
-        <script><![CDATA[var Feature2 = Class.create();
-Feature2.prototype = {
+        <name>Feature4</name>
+        <script><![CDATA[var Feature4 = Class.create();
+Feature4.prototype = {
     initialize: function() {
     },
 	
-	newMethod1: function() {
-		// do cool stuff
-	},
+	// Changed some stuff
 
-    type: 'Feature2'
+    type: 'Feature4'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-10-12 17:47:51</sys_created_on>
-        <sys_id>19d47e85db71030005b1dec0cf9619e5</sys_id>
+        <sys_created_by>josh.nerius</sys_created_by>
+        <sys_created_on>2017-10-16 04:29:07</sys_created_on>
+        <sys_id>4464689e13714b409718b9b76144b0ac</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Feature2</sys_name>
+        <sys_name>Feature4</sys_name>
         <sys_package display_value="GHC PR Tester" source="x_48785_ghc_prtest">a1fc6a01db71030005b1dec0cf96198c</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="GHC PR Tester">a1fc6a01db71030005b1dec0cf96198c</sys_scope>
-        <sys_update_name>sys_script_include_19d47e85db71030005b1dec0cf9619e5</sys_update_name>
-        <sys_updated_by>josh.nerius</sys_updated_by>
-        <sys_updated_on>2017-10-17 19:55:21</sys_updated_on>
+        <sys_update_name>sys_script_include_4464689e13714b409718b9b76144b0ac</sys_update_name>
+        <sys_updated_by>jnerius</sys_updated_by>
+        <sys_updated_on>2017-10-18 00:01:20</sys_updated_on>
     </sys_script_include>
 </record_update>
