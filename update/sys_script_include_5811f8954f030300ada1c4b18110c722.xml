@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_48785_ghc_prtest.Feature8</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Feature8</name>
+        <script><![CDATA[var Feature8 = Class.create();
+Feature8.prototype = {
+    initialize: function() {
+    },
+	
+	coolStuff: function() {
+		return "oh yeah!";
+	},
+
+    type: 'Feature8'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-14 06:09:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5811f8954f030300ada1c4b18110c722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Feature8</sys_name>
+        <sys_package display_value="GHC PR Tester" source="x_48785_ghc_prtest">a1fc6a01db71030005b1dec0cf96198c</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GHC PR Tester">a1fc6a01db71030005b1dec0cf96198c</sys_scope>
+        <sys_update_name>sys_script_include_5811f8954f030300ada1c4b18110c722</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-14 06:09:51</sys_updated_on>
+    </sys_script_include>
+</record_update>
